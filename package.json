@@ -36,6 +36,7 @@
     "@gerhobbelt/nomnom": "^1.8.4-24",
     "object-assign": "^4.1.0",
     "on-finished": "^2.3.0",
+    "openpgp": "^3.1.1",
     "pouchdb-all-dbs": "^1.0.2",
     "pouchdb-fauxton": "^0.0.6",
     "promise-nodify": "^1.0.2",
